@@ -4,9 +4,12 @@
 a. Sketch > Include Library > Manage Libraries
 
 1. DHT
+
 2. Adafruit Unified Sensor
-3.onewire
-4.Dallas
+
+3. Onewire
+
+4. Dallas
 
 b. File > Preference
 link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
