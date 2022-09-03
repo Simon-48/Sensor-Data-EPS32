@@ -15,10 +15,9 @@ b. File > Preference
 
 link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-> ok
-
 
 Tool > Board > Boards manager
+
 ESP32 board
 
 c. Include LiquidCrystal_I2C Library manually.
